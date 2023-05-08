@@ -1,1 +1,1 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports = 'Simulación clínica, enseñanza y aprendizaje en el proceso de formación'

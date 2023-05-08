@@ -17,3 +17,67 @@
 
   100%
     transform: translateY(0px)
+.contenedor-principal
+  .seccion-principal
+    .curso-main-container
+      .banner-interno__fondo
+        background-image: url("/img/img-bg-top.jpg") !important
+        background-size: cover
+      .banner-interno__titulo
+        padding-top: 5.3rem !important
+        padding-bottom: 5.3rem !important
+.barra-avance--open
+  .barra-avance__boton--regresar
+    i
+      color: #111e61
+    &:hover
+      i, span
+        color: white !important
+.banner-principal
+  .banner-principal__row
+    justify-content: space-around
+    .banner-principal__img
+      padding-right: 0 !important
+      width: 55%
+      img
+        max-width: 632px
+        margin-left: auto
+
+
+.linea-tiempo-b
+  .linea-tiempo-b__line-row
+    .linea-tiempo-b__line
+      &::after
+        height: 65% 
+        top: 10%
+        border-color: #707070
+  .linea-tiempo-b__row
+    margin-bottom: 6rem
+    &:last-child
+      margin-bottom: 0
+    .linea-tiempo-b__icon
+      background-color: transparent
+      padding: 0
+      img
+        width: 100%
+      &::after
+        background-color: #63F2E4
+    .linea-tiempo-b__content
+      h3
+        color: #4747FF
+
+.linea-tiempo-d
+  .linea-tiempo-d__item
+    .linea-tiempo-d__item__col-number
+      .linea-tiempo-d__item__number 
+        background-color: #F2E9F2
+        color: black
+    .linea-tiempo-d__item__content
+      background-color: #F2E9F2
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__col-number
+      .linea-tiempo-d__item__number 
+        background-color: #C0EDFC
+    .linea-tiempo-d__item__content
+      background-color: #C0EDFC
+
