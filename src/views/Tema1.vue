@@ -164,7 +164,226 @@
         p No hay una manera de comparar las prácticas realizadas y mencionadas anteriormente frente a lo que es hoy en día la simulación clínica, pero, sin duda, hacen parte de su evolución como un valioso antecedente que permite el análisis, promoción y solución frente a las necesidades que se presentan como riesgo al paciente. En la actualidad, se siguen generando estrategias de seguridad a los usuarios, y es un objetivo vigente, el cual debe ser garantizado por toda institución de salud.
       img.col-xl-5.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-9.png" style="max-width: 592px")
 
+    p.mb-5 Algunos usos de la simulación clínica que han venido evolucionando a través del tiempo, permitiendo la mejora y optimización de su función, se presentan en áreas especializadas como:
 
+    .tarjeta.p-4.mb-5(style="background-color: #EDFAFF")
+      PasosB.color-acento-botones
+        .row.col-lg-10.mx-auto(titulo="En procesos previos <br> para  neurocirugía")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema1/ltc-1.jpg')
+          .col-md-6.mb-4.mb-md-0.ms-md-auto
+            p En neurocirugía, la simulación por medio de la virtualización se vio enriquecida con el uso de imágenes diagnósticas por medio de la tomografía computarizada (TC) y la imagen en resonancia magnética, permitiendo la creación de modelos con imágenes de doble dimensión, utilizados en navegación intraoperatoria y cirugía estereotáctica, creando modelos interactivos tridimensionales con gran realismo, los cuales, en simulación aplicada a la neurocirugía, posibilitan la navegación en la comprensión de la compleja anatomía del cráneo, de la base y de los contenidos que lo conforman. 
+        .row.col-lg-10.mx-auto(titulo="Para intervenciones <br> de neurocirugía ")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema1/ltc-2.jpg')
+          .col-md-6.mb-4.mb-md-0.ms-md-auto
+            p El modelo virtual llamado Temporal Bone inicialmente, y luego de seguir con las pruebas, se desarrolla el modelo ROBO – SIM, seguido del NEUROBOT, usado en cirugías realizadas en vivo. Los adelantos mencionados en neurocirugía han ido evolucionando, tanto así que generaron más seguridad en el “clipaje” para tratar aneurismas, también la descompresión microvascular, tratamiento con cirugía para tumores, procedimientos endovasculares e instrumentación espinal.  
+        .row.col-lg-10.mx-auto(titulo="Para el área de <br> ventriculostomía")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema1/ltc-3.jpg')
+          .col-md-6.mb-4.mb-md-0.ms-md-auto
+            p Los modelos virtuales, intentando superar la limitada interacción sensorial, desarrollan el ImmersiveTouch para la ventriculostomía, método que, como entrenamiento, permitía al profesional experimentar una sensación táctil recreando la percepción de circulación, “pulso propio”, como si el catéter entrará en el revestimiento ventricular del epéndimo.
+        .row.col-lg-10.mx-auto(titulo="Para microcirugía")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema1/ltc-4.jpg')
+          .col-md-6.mb-4.mb-md-0.ms-md-auto
+            p El NeuroTouch, simulador virtual de los más recientes para su desarrollo, fue creado por neurocirujanos canadienses que trabajaron en el National Research Council of Canada, el cual podía acceder en el entrenamiento de la microcirugía craneal.
+
+    .row.mb-5.align-items-center
+      img.col-lg-5.col-md-6.mb-4.mb-md-0(src="@/assets/curso/temas/tema1/img-10.svg" style="max-width: 505px;")
+      .col-lg-7.col-md-6
+        .cajon.color-primario.p-4(style="background-color: #F1FEFD")
+          p Debido a la gran necesidad de fortalecer las competencias en el entrenamiento del personal que conforma las ciencias de la salud, en el mundo se encuentran fundados muchos centros de simulación y laboratorios que mejoran las habilidades clínicas por medio de equipos y programas que, de la mano con programadores de software y otros elementos, hacen reales estos escenarios. 
+    p.mb-5 En la actualidad, la simulación clínica viene en un proceso de evolución de constante perfeccionamiento y excelentes resultados, y, por medio de los programas encontrados en la formación del talento humano en salud y la aplicación de conocimientos en las ciencias de la salud, la transformación digital, las tecnologías en salud aplicadas en combinación con herramientas informáticas, busca un continuo relacionamiento, teniendo como objetivo la gestión del riesgo y la seguridad del paciente. Todo esto con el propósito de obtener como resultados la sensibilización, beneficios y alcances en los grandes y llamados actualmente “Desafíos en conectividad”. 
+
+
+    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+      .col-lg-10.mx-auto
+        .titulo-sexto.color-acento-botones
+          h5.text-small Figura 5
+          p.mb-0.text-small Simulador de enfermería
+        .mx-auto
+          img.mb-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 1030px")
+          span.text-small Digital Museums Canada (s. f.). 
+
+    Separador 
+
+    .titulo-segundo.color-secundario
+      h2#t_1_1 1.1 Concepto de simulación
+    p.mb-5 En el siguiente video, se describe el concepto de simulación, su uso y su importancia, obsérvelo:
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    h4 Concepto de simulación 
+
+    p.mb-5 La clasificación, o tipos de simuladores, está basada no solo en su definición, sino también en características de acuerdo con sus competencias o finalidades, las cuales permiten adquirir conocimientos más objetivos y datos más fidedignos para el logro de imitar el entorno en el porcentaje más cercano de la realidad. 
+      br
+      br
+      |Los tipos pueden estar de acuerdo con las necesidades no solo de una persona, sino de comunidades o sectores y con fines específicos, como: capacitación, entrenamiento, prácticas, previsión de posibilidades, proyecciones y posibilidades; los más usados son:
+
+
+    ul.mb-5.ps-md-5
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador clínico médico
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de conducción
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de carreras
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de vuelos o de aviones
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de trenes
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de vida o de dinámica familiar
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de espacios o ambientes
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de negocios
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador político
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de redes
+      li.d-flex
+        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px")
+        p.ps-4.mb-0 Simulador de juegos
+
+    .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
+      .container-bg.col-12.col-xl-9.order-2.order-xl-1
+        p Dentro de los procesos de enseñanza y aprendizaje, se dio la incorporación de las TIC para facilitar la adquisición de conocimientos, donde los contenidos, medios de enseñanza, recursos sociales mejoran cada vez más y se adaptan a las culturas y entornos; por ello, con el ánimo de mejorar los procesos de aprendizaje, aparece la simulación donde la necesidad de proyectar posibles realidades se requiere, pero para esto es importante el desarrollo tecnológico y personas capacitadas para no solo usar simuladores, sino para proponer, diseñar, desarrollar y probar simuladores. 
+      img.col-xl-6.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 610px")  
+
+    p.mb-5 Gracias al ejercicio documental realizado con la revisión y aplicación de métodos, tanto en artículos como en revistas de simulación, especialmente las de medicina y ramas especializadas, se realiza la planificación de cómo serán organizados los escenarios simulados, su análisis, de acuerdo con las propuestas que surjan e influyen en la metodología y las experiencias adquiridas en los docentes, instructores en simulación; de igual forma, las teorías y los procesos en los modelos académicos que explican el aprendizaje con el abordaje de dicha investigación realizada desde un enfoque más sistémico, donde son integrados los elementos necesarios en los procesos formativos y su metodología. 
+      br
+      br
+      |Los siguientes son videos que ejemplifican y ayudan a complementar los conocimientos:
+    
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema1/img-13.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.text-white.mb-1 Uso de simuladores de Cloudlabs
+              p.text-white.text-small En el siguiente video, se puede ver un tutorial para el uso de simuladores de Cloudlabs, dispuestos por el SENA en Sofia Plus para las diferentes áreas de conocimiento:
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=qi7GQFDJBAQ" target="_blank")
+                span Ver
+                img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
+    
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema1/img-13.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.text-white.mb-1 Biblioteca de simuladores
+              p.text-white.text-small En el siguiente video, se puede conocer el uso de la Biblioteca de Simuladores del SENA de las 15 áreas de conocimiento:
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=j9z0XrlfxvY" target="_blank")
+                span Ver
+                img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
+
+    Separador 
+
+    .titulo-segundo.color-secundario
+      h2#t_1_2 1.2 ¿Qué es la simulación clínica?
+    
+    p.mb-5 Para tener claridad al respecto, antes de dar una respuesta y sabiendo ya a nivel general lo que representa la simulación, en el siguiente video, se explica lo que significa simulación clínica:
+
+    p.mb-5 Es importante aclarar que con la simulación clínica no se pretende el reemplazo de la práctica en la vida real con el paciente, antes, procura aplicar diferentes metodologías de manera organizada y con objetivos específicos para fortalecer las habilidades y prácticas de tipo motriz, y cualificar competencias que se encuentran en cada escenario médico. 
+      br
+      br
+      |Aunque es relevante atribuir que el éxito de la simulación clínica no solo se debe a la tecnología, sino también a la investigación e implementación que ejecutan los centros o instituciones que se dedican a la construcción de estos modelos. En definitiva, no solo se trata de la conformación de equipos con avanzada tecnología, sino a la enseñanza del instructor y prácticas del aprendiz. 
+      br
+      br
+      |Partiendo de lo anterior, el siguiente esquema menciona el ciclo de la simulación clínica:
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+      .col-lg-10.mx-auto
+        .titulo-sexto.color-acento-botones
+          h5.text-small Figura 6
+          p.mb-0.text-small Ciclo simulación clínica
+        .col-md-10.col-xl-6.mx-auto
+          img.mb-2(src="@/assets/curso/temas/tema1/img-14.svg" style="max-width: 820px")
+          span.text-small SENA (2022).
+
+    p.mb-5 Ahora, observe en la siguiente tabla los beneficios y limitaciones que pueden presentar los procesos de simulación clínica:
+
+    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+      .col-lg-10.mx-auto
+        .titulo-sexto.color-acento-botones
+          h5.text-small Tabla 1
+          p.mb-0.text-small Beneficios / Limitaciones
+        .col-11.mx-auto
+          .tabla-b.color-acento-contenido
+            .tabla-b__header.d-flex.justify-content-between
+              h4.col-5.mb-0.text-white Grupo de edad
+              h4.col-7.mb-0.text-white Frecuencia respiratoria
+            table
+              tr(style="background-color: #F6F6F6")
+                td.col-5(style="border-right: 1px solid #AFAFAF") No sustituye escenarios clínicos reales.
+                td.col-7 Grupos pequeños para mayor interacción.
+              tr(style="background-color: white")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Similitud en patologías y signos del paciente.
+                td.col-7 Acceder a más datos del paciente.
+              tr(style="background-color: #F6F6F6")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Puede equivocarse en varias oportunidades, sin repercusión real.
+                td.col-7 Exceso de seguridad frente a procedimientos a ejecutar.
+              tr(style="background-color: white")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Disminuye las emociones de miedo a equivocarse.
+                td.col-7 No percibir en su paciente estados como ansiedad o estrés causados por su patología.
+              tr(style="background-color: #F6F6F6")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Desarrollo de habilidades comunicativas.
+                td.col-7 Actualización constante de los programas simulados.
+              tr(style="background-color: white")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Destrezas en campos de difícil acceso.
+                td.col-7 Acceso por costos de simuladores o mantenimiento de los mismos.
+              tr(style="background-color: #F6F6F6")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Reflexión de su praxis y feedback.
+                td.col-7 Falta de entrenamiento a instructores en manejo de simuladores.
+              tr(style="background-color: white")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Registros guardados.
+                td.col-7 Constantes vitales no programadas.
+              tr(style="background-color: #F6F6F6")
+                td.col-5(style="border-right: 1px solid #AFAFAF") Tiempos cortos para su aprendizaje.
+                td.col-7 Tiempos extensos para el aprendizaje.
+          p.text-small SENA (2022).
+
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema1/img-15.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.text-white.mb-1 Diccionario de simulación en salud
+              p.text-white.text-small En el siguiente documento de la entidad The Society for Simulation in Healthcare (SSH), podrá consultar los términos más usados en simulación en salud, donde podrá contextualizarse de manera más clara sobre los conceptos y definiciones encontradas en la formación para esta área del conocimiento.
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                span Descargar 
+                i.ms-4.fas.fa-file-download
 
 </template>
 
@@ -209,19 +428,19 @@ export default {
 .img-text-edit
   align-content: center
   .container-bg
-    background-color: #13C4FF
-    padding: 2.87rem 4rem
+    background-color: #63F2E4
+    padding: 1rem 4rem
     margin-top: auto
-    margin-bottom: 2.6rem
+    margin-bottom: auto
     p
       max-width: 505px
+      margin-bottom: 0
   img
     margin-left: -22%
   @media (max-width: 1400px)
     .container-bg
       max-width: 975px
-      padding: 1.5rem 4rem
-      margin-bottom: 2.2rem
+      padding: 1rem 4rem
     img
       margin-left: -17%
   @media (max-width: 1200px)

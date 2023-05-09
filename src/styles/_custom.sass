@@ -81,3 +81,27 @@
     .linea-tiempo-d__item__content
       background-color: #C0EDFC
 
+.pasos-b
+  .pasos-b__header
+    .pasos-b__header__items
+      .pasos-b__header__item--active
+        &:first-child
+          .pasos-b__header__item__line-container
+            &::before
+              background-color: transparent !important
+        .pasos-b__header__item__line-container
+          &::before
+            background-color: #13C4FF !important
+      .pasos-b__header__item--before
+        &:first-child
+          .pasos-b__header__item__line-container
+            &::before
+              background-color: transparent !important
+        .pasos-b__header__item__line-container
+          .pasos-b__header__item__dot
+            background-color: #13C4FF
+            border-color: #13C4FF
+          &::before
+            background-color: #13C4FF
+          &::after
+            background-color: #13C4FF

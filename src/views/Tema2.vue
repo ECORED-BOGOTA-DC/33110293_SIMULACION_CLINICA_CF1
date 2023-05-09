@@ -5,7 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 2
-      h1 Titulo de primer nivel
+      h1 Teorías de la simulación clínica
+
+    p.mb-5 A continuación, se expone la evolución que han tenido los procesos de aprendizaje para llegar finalmente a las teorías de simulación clínica:
 
 </template>
 
