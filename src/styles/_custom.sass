@@ -21,7 +21,7 @@
   .seccion-principal
     .curso-main-container
       .banner-interno__fondo
-        background-image: url("/img/img-bg-top.jpg") !important
+        background-image: url("../assets/curso/portada/img-bg-top.svg") !important
         background-size: cover
       .banner-interno__titulo
         padding-top: 5.3rem !important
@@ -36,12 +36,16 @@
 .banner-principal
   .banner-principal__row
     justify-content: space-around
-    .banner-principal__img
-      padding-right: 0 !important
-      width: 55%
-      img
-        max-width: 632px
-        margin-left: auto
+    @media (min-width: 1400px)
+      .banner-principal__img
+        padding-right: 0 !important
+        width: 55%
+        img
+          max-width: 632px
+          margin-left: auto
+  .container
+    @media (max-width: 768px)
+      background-position: 20%
 
 
 .linea-tiempo-b
@@ -129,6 +133,22 @@
       margin-right: auto
       margin-bottom: 1.5rem
     .container-bg
+      padding: 1.5rem
       p
         max-width: 100%
+
+.pasos-b
+  .pasos-b__header
+    .pasos-b__header__items
+      .horizontal-scroll__wrapper
+        .horizontal-scroll
+          .pasos-b__header__item
+            .pasos-b__header__item__tittle
+              @media (max-width: 768px)
+                font-size: 10px !important
+                padding: 0 .5rem
+.text-change-color
+  @media (max-width: 991px)
+    color: white
+
         

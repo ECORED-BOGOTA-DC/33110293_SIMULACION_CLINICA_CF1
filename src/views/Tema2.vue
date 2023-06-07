@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 2
       h1 Teorías de la simulación clínica
@@ -59,7 +59,7 @@
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.col-lg-9.offset-1(style="background-color: #13C4FF")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          h2.mb-0 La simulación clínica y las teorías
+          h2.mb-0.text-change-color La simulación clínica y las teorías
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p(data-aos="fade-left") La simulación clínica está relacionada de manera parcial con todas las teorías del aprendizaje que demuestran cómo el conductismo de Bandura y el aprendizaje por experiencia de Kolb son teorías del aprendizaje por excelencia encontradas en estos campos de simulación en las ciencias de la salud.
@@ -80,68 +80,68 @@
           p.mb-0.text-small Mapa mental teorías del aprendizaje
         .col-lg-8.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema2/img-7.svg" style="max-width: 878px" data-aos="fade-left")
-          span.text-small Mapa mental teorías del aprendizaje
+          span.text-small Pagu y Torres (2014).
     p.mb-5(data-aos="fade-right") A continuación, se hará una explicación de las teorías del aprendizaje más usadas y que vienen siendo tomadas en cuenta en las prácticas pedagógicas con técnicas y estrategias para facilitar el aprendizaje:
     
     .p-4.p-md-5.mb-5(style="background-color: #E7F9FF")
       SlyderE(indicadores="derecha")
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1(data-aos="fade-right")
-            h3 1. Las teorías del aprendizaje basadas en el conductismo
+            h3 Las teorías del aprendizaje basadas en el conductismo
             p El condicionamiento operante de B. F. Skinner propone que el aprendizaje está determinado por el reforzamiento de las conductas voluntarias de un individuo frente a una situación específica, la cual se plantea de acuerdo con una meta conductual observable.        
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-1.svg' data-aos="fade-left")
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 1.1. Propuesta de Skinner
+            h3 Propuesta de Skinner
             p A diferencia del condicionamiento clásico, Skinner propone que los antecedentes y las consecuencias positivas o negativas sobre la respuesta del individuo son las que posibilitan la repetición de una conducta, prevaleciendo las que son positivas sobre las negativas.        
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-2.svg')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 1.2. Conductismo en simulación clínica
+            h3 Conductismo en simulación clínica
             p En la simulación clínica, la oportunidad de reforzar conductas voluntarias en los individuos, por medio de diversos procedimientos que involucran laboratorios, talleres y otras prácticas establecidas en escenarios controlados, propician el reforzamiento de conductas positivas que permiten la repetición y el logro del aprendizaje.
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-3.png')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 2. Las teorías del aprendizaje basadas en el cognitivismo 
+            h3 Las teorías del aprendizaje basadas en el cognitivismo 
             p El aprendizaje experiencial de David Kolb es una teoría que fundamenta el proceso de aprendizaje de un individuo en su experiencia y su posterior reflexión, por medio de un ciclo (el ciclo de Kolb) que dispone de cuatro fases: la fase de experiencia, la fase de observación reflexiva, la fase de conceptualización abstracta, la fase de experimentación activa. 
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-4.png')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 2.1. Las cuatros fases
+            h3 Las cuatros fases
             p La fase de experiencia concreta, en la cual el individuo experimenta una situación particular; la fase de observación reflexiva, en la que evalúa las acciones realizadas en la experiencia y valora los resultados; la fase de conceptualización abstracta, en la cual el individuo establece conclusiones y generalizaciones a partir de sus reflexiones; y  la fase de experimentación activa, que posibilita probar en la práctica las conclusiones elaboradas, para dirigir las acciones en experiencias futuras.
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-5.svg')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 2.2. Cognitivismo y simulación clínica
+            h3 Cognitivismo y simulación clínica
             p En relación con la simulación clínica, este modelo permite visualizar la práctica de aprendizaje como experiencias concretas, en las cuales el aprendiz tiene la posibilidad de valorar sus acciones y crear conclusiones y generalidades que orienten sus actividades en futuros contextos de aplicación.
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-6.png')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 3. Las teorías del aprendizaje basadas en el constructivismo
+            h3 Las teorías del aprendizaje basadas en el constructivismo
             p El desarrollo próximo propuesto por Lev Vigotsky propone que el desarrollo y el aprendizaje están relacionados y que las interacciones sociales entre los individuos permiten la creación de nuevos aprendizajes y desarrollos. Para comprender este proceso, definió tres zonas de desarrollo en los niños: nivel real de desarrollo, nivel potencial de desarrollo, zona de desarrollo próximo.
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-7.svg')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 3.1. Zonas de desarrollo en los niños
+            h3 Zonas de desarrollo en los niños
             p La primera consiste en el nivel real de desarrollo, en la cual un niño puede realizar una tarea de aprendizaje de manera autónoma, porque ya la conoce o ya la ha aprendido. La segunda está comprendida por el nivel potencial de desarrollo, que está conformado por las funciones que puede adquirir el niño con la dirección de otra persona más capaz para la actividad de aprendizaje. La diferencia entre la primera y la segunda conforma un espacio privilegiado para la interiorización de nuevos conocimientos, la cual se denomina zona de desarrollo próximo.
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-8.svg')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 3.2. Constructivismo y simulación clínica
+            h3 Constructivismo y simulación clínica
             p En la simulación clínica, esta teoría tiene aplicabilidad en cuanto se comparte con aprendices de diferente experticia o capacidad, y en la comprensión de los retos o desafíos como situaciones que propician e impulsan el aprendizaje. 
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-9.svg')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 4. Teoría de la práctica deliberada de Ericsson
+            h3 Teoría de la práctica deliberada de Ericsson
             p Propone la consolidación de un aprendizaje novato a uno experto, por medio de la repetición de actividades deliberadas para perfeccionar una habilidad, destreza o competencia. En este modelo, es necesario que las actividades estén dirigidas por medio de objetivos específicos, que exista interés y motivación en el aprendiz, que haya procesos de retroalimentación oportuna y constante. 
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-10.svg')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 4.1. Práctica deliberada y simulación clínica
+            h3 Práctica deliberada y simulación clínica
             p En la simulación clínica, esta teoría posibilita que el aprendizaje del profesional en salud sea un espacio controlado, en el cual se posibilite refinar sus habilidades, destrezas y competencias antes de enfrentarse a contextos reales de acción. De esta manera, una adecuada planeación de objetivos, la evaluación y autoevaluación de las tareas realizadas y la posibilidad de repetir las acciones para el refinamiento de sus prácticas consolidarán un profesional experto. 
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-0(src='@/assets/curso/temas/tema2/se-11.png')
     
-    p.mb-5(data-aos="fade-right") Ahora, observe, a través del siguiente esquema, una especificación al respecto de las teorías, teniendo en cuenta la información vista y sus derivados:
+    p.mb-5(data-aos="fade-right") Ahora, observe, en el siguiente esquema, una especificación al respecto de las teorías, teniendo en cuenta la información vista y sus derivados:
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
       .col-lg-10.mx-auto
@@ -151,8 +151,6 @@
         .col-12.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 1031px" data-aos="fade-left")
           span.text-small SENA (2022).
-
-    p.mb-5(data-aos="fade-right") Ahora, observe, a través del siguiente esquema, una especificación al respecto de las teorías, teniendo en cuenta la información vista y sus derivados:
 
     .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
       .row.justify-content-around.align-items-center

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 1
       h1 Historia de la simulación clínica 
@@ -43,9 +43,9 @@
         .d-flex.flex-wrap(numero="1" titulo="Edad media")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-1.jpg" style="max-width: 295px" data-aos="fade-right")
           p.col-12.col-lg.ps-md-3(data-aos="fade-left") En esta época, se hacía uso de animales, los cuales se empleaban para el entrenamiento y el desarrollo de habilidades quirúrgicas en los procesos de enseñanza en medicina.
-        .d-flex.flex-wrap(numero="2" titulo="Siglo III A.C.")
+        .d-flex.flex-wrap(numero="2" titulo="Siglo III a.C.")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-2.jpg" style="max-width: 295px")
-          p.col-12.col-lg.ps-md-3 En India, el uso del melón fue recomendado para el aprendizaje de incisiones por el médico Súsruta, e igual se usaba una muñeca de lLino de tamaño natural en la aplicación de vendajes. (Medigraphic, 2017).
+          p.col-12.col-lg.ps-md-3 En India, el uso del melón fue recomendado para el aprendizaje de incisiones por el médico Súsruta, e igual se usaba una muñeca de lino de tamaño natural en la aplicación de vendajes. (Medigraphic, 2017).
 
         .d-flex.flex-wrap(numero="3" titulo="Siglo XVIII")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-3.jpg" style="max-width: 295px")
@@ -59,7 +59,7 @@
             p Primer momento trascendental: con la propuesta encontrada en la obra de Asmund Laerdal, quien con un grupo de médicos de especialidad en anestesiología y en conjunto con una fábrica de juguetes, desarrollaron el primer modelo de reanimación cardiopulmonar, nombrado: Resusci Anne. (BBC, 2013)
             a(href="https://ichef.bbci.co.uk/news/624/amz/worldservice/live/assets/images/2013/10/23/131023154936_besada_grande.jpg" target="_blank" style="overflow-wrap: anywhere") https://ichef.bbci.co.uk/news/624/amz/worldservice/live/assets/images/2013/10/23/131023154936_besada_grande.jpg
 
-        .d-flex.flex-wrap(numero="5" titulo="1960")
+        .d-flex.flex-wrap(numero="5" titulo="Década de los 70")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-5.jpg" style="max-width: 295px")
           p.col-12.col-lg.ps-md-3 “Abrahamson y Denson desarrollan el simulador SimOne, con la Universidad de Harvard, este simulador contaba con características que lo harían único, al presentar ruidos respiratorios y cardíacos, pulso carotídeo, temporal, que daban respuesta fisiológica a las maniobras aplicadas en tiempo real, usando programas desde un sistema de computo” (Zeigen, 2021).
 
@@ -70,7 +70,7 @@
         .d-flex.flex-wrap(numero="7" titulo="Siglo XIX")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-7.jpg" style="max-width: 295px")
           .col-12.col-lg.ps-md-3
-            p “Una de las especialidades con mayor número de simuladores, es la obstetricia, sus procedimientos, como: amniocentesis bajo ultrasonografía, los fórceps, la distocia de hombros, atención de emergencias obstétricas y trauma, son claros ejemplos en la historia; además, de la evolución marcada en la actualidad” (Tomascabacas, 2013).
+            p “Una de las especialidades con mayor número de simuladores, es la obstetricia, sus procedimientos, como: amniocentesis bajo ultrasonografía, los fórceps, la distocia de hombros, atención de emergencias obstétricas y trauma, son claros ejemplos en la historia; además, de la evolución marcada en la actualidad” (Cabacas, 2013).
             a(href="http://tomascabacas.com/wp-content/uploads/2014/01/Forceps-romano.jpg " target="_blank" style="overflow-wrap: anywhere") http://tomascabacas.com/wp-content/uploads/2014/01/Forceps-romano.jpg 
 
         .d-flex.flex-wrap(numero="8" titulo="Mediados de los 80")
@@ -85,7 +85,7 @@
 
         .d-flex.flex-wrap(numero="10" titulo="Años 90")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-10.jpg" style="max-width: 295px")
-          p.col-12.col-lg.ps-md-3 La simulación virtual continuaba sus estudios, ahora en el campo quirúrgico con el desarrollo del dextroscopio, siendo un prototipo que, a través del uso de un espejo, reflejaba la imagen de un monitor, usando los anteojos estereoscópicos que formaban una imagen tridimensional y que era combinado con el software llamado VizDexter.
+          p.col-12.col-lg.ps-md-3 La simulación virtual continuaba sus estudios, ahora en el campo quirúrgico con el desarrollo del dextroscopio, siendo un prototipo que, a través del uso de un espejo, reflejaba la imagen de un monitor, usando los anteojos estereoscópicos que formaban una imagen tridimensional y que era combinado con el <em>software</em> llamado VizDexter.
 
         .d-flex.flex-wrap(numero="11" titulo="1999")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-11.jpg" style="max-width: 295px")
@@ -180,12 +180,12 @@
               img(src='@/assets/curso/temas/tema1/ltc-2.jpg')
           .col-md-6.mb-4.mb-md-0.ms-md-auto
             p El modelo virtual llamado Temporal Bone inicialmente, y luego de seguir con las pruebas, se desarrolla el modelo ROBO – SIM, seguido del NEUROBOT, usado en cirugías realizadas en vivo. Los adelantos mencionados en neurocirugía han ido evolucionando, tanto así que generaron más seguridad en el “clipaje” para tratar aneurismas, también la descompresión microvascular, tratamiento con cirugía para tumores, procedimientos endovasculares e instrumentación espinal.  
-        .row.col-lg-10.mx-auto(titulo="Para el área de <br> ventriculostomía")
+        .row.col-lg-10.mx-auto(titulo="Para el <br>área de <br>ventriculostomía")
           .col-md-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/ltc-3.jpg')
           .col-md-6.mb-4.mb-md-0.ms-md-auto
-            p Los modelos virtuales, intentando superar la limitada interacción sensorial, desarrollan el ImmersiveTouch para la ventriculostomía, método que, como entrenamiento, permitía al profesional experimentar una sensación táctil recreando la percepción de circulación, “pulso propio”, como si el catéter entrará en el revestimiento ventricular del epéndimo.
+            p Los modelos virtuales, intentando superar la limitada interacción sensorial, desarrollan el ImmersiveTouch para la ventriculostomía, método que, como entrenamiento, permitía al profesional experimentar una sensación táctil recreando la percepción de circulación, “pulso propio”, como si el catéter entrara en el revestimiento ventricular del epéndimo.
         .row.col-lg-10.mx-auto(titulo="Para microcirugía")
           .col-md-5.mb-4.mb-md-0
             figure
@@ -197,8 +197,8 @@
       img.col-lg-5.col-md-6.mb-4.mb-md-0(src="@/assets/curso/temas/tema1/img-10.svg" style="max-width: 505px;" data-aos="fade-right")
       .col-lg-7.col-md-6
         .cajon.color-primario.p-4(style="background-color: #F1FEFD")
-          p(data-aos="fade-left") Debido a la gran necesidad de fortalecer las competencias en el entrenamiento del personal que conforma las ciencias de la salud, en el mundo se encuentran fundados muchos centros de simulación y laboratorios que mejoran las habilidades clínicas por medio de equipos y programas que, de la mano con programadores de software y otros elementos, hacen reales estos escenarios. 
-    p.mb-5(data-aos="fade-right") En la actualidad, la simulación clínica viene en un proceso de evolución de constante perfeccionamiento y excelentes resultados, y, por medio de los programas encontrados en la formación del talento humano en salud y la aplicación de conocimientos en las ciencias de la salud, la transformación digital, las tecnologías en salud aplicadas en combinación con herramientas informáticas, busca un continuo relacionamiento, teniendo como objetivo la gestión del riesgo y la seguridad del paciente. Todo esto con el propósito de obtener como resultados la sensibilización, beneficios y alcances en los grandes y llamados actualmente “Desafíos en conectividad”. 
+          p(data-aos="fade-left") Debido a la gran necesidad de fortalecer las competencias en el entrenamiento del personal que conforma las ciencias de la salud, en el mundo se encuentran fundados muchos centros de simulación y laboratorios que mejoran las habilidades clínicas por medio de equipos y programas que, de la mano con programadores de <em>software</em> y otros elementos, hacen reales estos escenarios. 
+    p.mb-5(data-aos="fade-right") En la actualidad, la simulación clínica viene en un proceso de evolución de constante perfeccionamiento y excelentes resultados, y, por medio de los programas encontrados en la formación del talento humano en salud y la aplicación de conocimientos en las ciencias de la salud, la transformación digital, las tecnologías en salud aplicadas en combinación con herramientas informáticas, busca un continuo relacionamiento, teniendo como objetivo la gestión del riesgo y la seguridad del paciente. Todo esto con el propósito de obtener como resultados la sensibilización, beneficios y alcances en los grandes y llamados actualmente “desafíos en conectividad”. 
 
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
@@ -208,19 +208,19 @@
           p.mb-0.text-small Simulador de enfermería
         .mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 1030px" data-aos="fade-left")
-          span.text-small Digital Museums Canada (s. f.). 
+          span.text-small Comunidad FacMed (2020).
 
     Separador 
 
     .titulo-segundo.color-secundario
       h2#t_1_1 1.1 Concepto de simulación
-    p.mb-5(data-aos="fade-right") En el siguiente video, se describe el concepto de simulación, su uso y su importancia, obsérvelo:
+    p.mb-5(data-aos="fade-right") En el siguiente video, se describe el concepto de simulación, su uso y su importancia.
 
     figure.mb-5(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    h4 Concepto de simulación 
+    h4 Tipos de simuladores
 
     p.mb-5(data-aos="fade-right") La clasificación, o tipos de simuladores, está basada no solo en su definición, sino también en características de acuerdo con sus competencias o finalidades, las cuales permiten adquirir conocimientos más objetivos y datos más fidedignos para el logro de imitar el entorno en el porcentaje más cercano de la realidad. 
       br
@@ -308,6 +308,10 @@
     
     p.mb-5(data-aos="fade-right") Para tener claridad al respecto, antes de dar una respuesta y sabiendo ya a nivel general lo que representa la simulación, en el siguiente video, se explica lo que significa simulación clínica:
 
+    figure.mb-5(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p.mb-5(data-aos="fade-right") Es importante aclarar que con la simulación clínica no se pretende el reemplazo de la práctica en la vida real con el paciente, antes, procura aplicar diferentes metodologías de manera organizada y con objetivos específicos para fortalecer las habilidades y prácticas de tipo motriz, y cualificar competencias que se encuentran en cada escenario médico. 
       br
       br
@@ -315,10 +319,6 @@
       br
       br
       |Partiendo de lo anterior, el siguiente esquema menciona el ciclo de la simulación clínica:
-
-    figure.mb-5(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
       .col-lg-10.mx-auto
@@ -335,13 +335,13 @@
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Tabla 1
-          p.mb-0.text-small Beneficios / Limitaciones
+          p.mb-0.text-small Beneficios / limitaciones
         .col-11.mx-auto
           .tabla-b.color-acento-contenido(data-aos="fade-left")
-            .tabla-b__header.d-flex.justify-content-between
-              h4.col-5.mb-0.text-white Grupo de edad
-              h4.col-7.mb-0.text-white Frecuencia respiratoria
             table
+              tr(style="background-color: #F6F6F6")
+                td.col-5.text-center.fw-bold(style="background-color: #2C04BF; border: none; color: white") Beneficios
+                td.col-7.text-center.fw-bold(style="background-color: #2C04BF; border: none; color: white") Limitaciones
               tr(style="background-color: #F6F6F6")
                 td.col-5(style="border-right: 1px solid #AFAFAF") No sustituye escenarios clínicos reales.
                 td.col-7 Grupos pequeños para mayor interacción.
@@ -361,7 +361,7 @@
                 td.col-5(style="border-right: 1px solid #AFAFAF") Destrezas en campos de difícil acceso.
                 td.col-7 Acceso por costos de simuladores o mantenimiento de los mismos.
               tr(style="background-color: #F6F6F6")
-                td.col-5(style="border-right: 1px solid #AFAFAF") Reflexión de su praxis y feedback.
+                td.col-5(style="border-right: 1px solid #AFAFAF") Reflexión de su praxis y <em>feedback</em>.
                 td.col-7 Falta de entrenamiento a instructores en manejo de simuladores.
               tr(style="background-color: white")
                 td.col-5(style="border-right: 1px solid #AFAFAF") Registros guardados.
@@ -388,9 +388,10 @@
 </template>
 
 <script>
+import PasosB from '@/components/PasosB.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: { PasosB },
   data: () => ({
     datosLineaTiempoB: [
       {

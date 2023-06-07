@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'El reconocimiento del nacimiento u origen de la simulación y sus beneficios, los cuales se encuentran en las diferentes áreas de la salud, permite desarrollar estrategias para enfrentar los problemas encontrados en eventos clínicos derivados de la creciente demanda de la formación práctica, por medio de ambientes que imitan la realidad y la orientación requerida y ofrecida por el instructor.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [],
   },
   menuPrincipal: {
@@ -46,14 +46,14 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '1.1',
+            numero: '2.1',
             titulo: 'Teoría social cognitiva (Bandura)',
-            hash: 't_1_1',
+            hash: 't_2_1',
           },
           {
-            numero: '1.2',
+            numero: '2.2',
             titulo: 'Teoría de carga cognitiva (Sweller)',
-            hash: 't_1_2',
+            hash: 't_2_2',
           },
         ],
       },
@@ -157,7 +157,7 @@ export default {
     {
       termino: 'Escenario',
       significado:
-        'descripción de simulación que incluye metas, objetivos, puntos de debriefing, descripción narrativa de la simulación clínica, requisitos de personal, configuración de la sala de simulación, simuladores, operación del simulador e instrucciones.',
+        'descripción de simulación que incluye metas, objetivos, puntos de <em>debriefing</em>, descripción narrativa de la simulación clínica, requisitos de personal, configuración de la sala de simulación, simuladores, operación del simulador e instrucciones.',
     },
     {
       termino: 'Escenario clínico',
@@ -197,7 +197,7 @@ export default {
     {
       termino: 'Simulación',
       significado:
-        'proviene del latín simulare, y significa "representar algo, fingiendo o imitando lo que no es".',
+        'proviene del latín <em>simulare</em>, y significa "representar algo, fingiendo o imitando lo que no es".',
     },
     {
       termino: 'Simulación en salud',
@@ -292,6 +292,7 @@ export default {
       link:
         'https://www.bibliopsi.org/docs/carreras/obligatorias/CFP/educacional/erausquin/Unidad%202/Vigotsky%20-%20el%20desarrollo%20de%20los%20p.%20cap%204.pdf',
     },
+    // TODO: Falta link roto!
     {
       referencia:
         'Zeigen Microscopios. (2021). <em>Los simuladores médicos: ¿Cuál es su historia?</em> Zeigen.',
@@ -309,9 +310,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },
@@ -319,9 +320,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Efraín Gómez Matamoros',
+          cargo: 'Experto Temático',
+          centro:
+            'Regional Distrito Capital - Centro de Formación de Talento Humano en Salud',
+        },
+        {
+          nombre: 'Claudia Milena Hernández Naranjo',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial.',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
+        },
+        {
+          nombre: 'Darío González',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },
@@ -329,19 +352,29 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Adriana Marcela Suarez Eljure',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animador y Producción audiovisual',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animador y Producción audiovisual',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },
@@ -349,14 +382,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },

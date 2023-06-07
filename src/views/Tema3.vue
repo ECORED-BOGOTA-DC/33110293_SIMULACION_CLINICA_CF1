@@ -2,10 +2,10 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 3
-      h1 Productos farmacéuticos
+      h1 Etapas para el aprendizaje
 
     p.mb-5(data-aos="fade-right") Peter Dieckmann define un ambiente de simulación como aquel donde, al reunirse varias personas en un espacio o tiempo, pueden realizar actividades que se asemejan a la realidad en torno a un simulador. Esta práctica social tiene como fin dar cumplimiento a los objetivos propuestos para el aprendizaje. 
       br
@@ -16,7 +16,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5(data-aos="fade-right") Las etapas, según Peter Dieckmann, están conformadas por tres momentos: prebriefing, momento en el escenario y debriefing. Para entender mejor esta definición, a continuación encontrará la siguiente imagen:
+    p.mb-5(data-aos="fade-right") Las etapas, según Peter Dieckmann, están conformadas por tres momentos: <em>prebriefing</em>, momento en el escenario y <em>debriefing</em>. Para entender mejor esta definición, a continuación encontrará la siguiente imagen:
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
@@ -31,7 +31,7 @@
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.col-lg-10.mx-auto(style="background-color: #13C4FF")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          h2.mb-0 El aprendizaje motor
+          h2.mb-0.text-change-color El aprendizaje motor
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p(data-aos="fade-left") Los procesos de enseñanza y aprendizaje basados en modelos descritos por Fitts y Posner invitan a seguir tres etapas, en las cuales se propone que el aprendizaje motor sea un procedimiento con aspectos que dirijan de forma cognitiva el conocimiento adquirido, siendo este un elemento en la competencia motriz, la cual fortalece al aprendiz en querer apropiarse más conocimientos, siendo así más efectivo. 
@@ -52,18 +52,18 @@
         .row(titulo="Etapa uno")
           p(data-aos="fade-right") Entendimiento de la naturaleza mediante la acción, a través de la atención, observación, desarrollando estrategias, tomando conciencia de los procesos motores a realizar. 
           ul.mb-5
-            li.d-flex
-              img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+            li.d-flex.align-items-start
+              img.pt-2(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
               p.ps-4.mb-0(data-aos="fade-left") Realiza y comprende la tarea motriz, construyendo su programa sobre lo que tiene que hacer, y aprende cómo hacerlo de manera técnica.
-            li.d-flex
-              img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+            li.d-flex.align-items-start
+              img.pt-2(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
               p.ps-4.mb-0(data-aos="fade-left") Identifica el o los objetivos de la actividad o tarea propuesta, no solo reconociendo los movimientos, sino los gestos que debe encontrarse en la ejecución de las actividades, permitiendo la construcción de programas de acción que sean adecuados para cumplir y aprender de ellos.
-        .row(titulo="Etapa uno")
+        .row(titulo="Etapa dos")
           p Perfecciona las estrategias encontradas. El aprendiz crea ajustes en torno a las estrategias obtenidas teniendo en cuenta los estímulos recibidos y experimentados en cada una de ellas. 
             br
             br
             |La identificación de errores mejora los movimientos y se ven caracterizados por la mayor coordinación y fluidez, clasificación de la información y pérdida de los errores con más relevancia. 
-        .row(titulo="Etapa uno")
+        .row(titulo="Etapa tres")
           p Hay apropiación de conocimientos y análisis de la información, esto genera que los movimientos corporales sean más autónomos y sus ganas de prestar atención se vean, siempre explorando hacia su entorno o ambiente. 
             br
             br
