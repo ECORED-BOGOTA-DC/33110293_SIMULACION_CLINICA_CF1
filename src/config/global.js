@@ -93,6 +93,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_1_33110293.pdf',
+      },
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -292,12 +297,11 @@ export default {
       link:
         'https://www.bibliopsi.org/docs/carreras/obligatorias/CFP/educacional/erausquin/Unidad%202/Vigotsky%20-%20el%20desarrollo%20de%20los%20p.%20cap%204.pdf',
     },
-    // TODO: Falta link roto!
     {
       referencia:
         'Zeigen Microscopios. (2021). <em>Los simuladores médicos: ¿Cuál es su historia?</em> Zeigen.',
       link:
-        'https://www.zeigenmx.com/los-simuladores-m%C3%A9dicos-cu%C3%A1l-es-su-historia',
+        'https://www.zeigenmx.com/blog/simuladores-medicos-3/los-simuladores-medicos-cual-es-su-historia-2',
     },
   ],
   creditos: [

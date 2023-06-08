@@ -79,7 +79,7 @@
           h5.text-small Figura 7
           p.mb-0.text-small Mapa mental teorías del aprendizaje
         .col-lg-8.mx-auto
-          img.mb-2(src="@/assets/curso/temas/tema2/img-7.svg" style="max-width: 878px" data-aos="fade-left")
+          img.mb-2(src="@/assets/curso/temas/tema2/img-7.svg" style="max-width: 878px" data-aos="fade-left" alt="Mapa mental teorías del aprendizaje")
           span.text-small Pagu y Torres (2014).
     p.mb-5(data-aos="fade-right") A continuación, se hará una explicación de las teorías del aprendizaje más usadas y que vienen siendo tomadas en cuenta en las prácticas pedagógicas con técnicas y estrategias para facilitar el aprendizaje:
     
@@ -149,7 +149,7 @@
           h5.text-small Figura 8
           p.mb-0.text-small Cuadro sinóptico de teorías
         .col-12.mx-auto
-          img.mb-2(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 1031px" data-aos="fade-left")
+          img.mb-2(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 1031px" data-aos="fade-left" alt="Cuadro sinóptico de teorías")
           span.text-small SENA (2022).
 
     .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
@@ -178,7 +178,7 @@
           h5.text-small Figura 9
           p.mb-0.text-small Capacidades básicas del aprendizaje
         .col-12.mx-auto
-          img.mb-2(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 1031px" data-aos="fade-left")
+          img.mb-2(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 1031px" data-aos="fade-left" alt="mapa mental capacidades básicas del aprendizaje")
           span.text-small SENA (2022).   
 
     p.mb-5(data-aos="fade-right") De esta manera, en el proceso de aprendizaje, un individuo puede prever, ensayar simbólicamente y aprender vicariamente antes de ejecutar las acciones aprendidas. Simultáneamente, autoevalúa las consecuencias de las acciones para así autorregular sus acciones. En este sentido, el individuo logra construir mayor confianza y autoeficacia en el desarrollo de diversas tareas, lo que influirá positivamente en el interés y la motivación del aprendiz a la hora de afrontar nuevos desafíos.
@@ -202,8 +202,8 @@
           h5.text-small Figura 10
           p.mb-0.text-small Cámara de Gesell
         .col-12.mx-auto.d-flex.flex-wrap(data-aos="fade-right")
-          img.col-xl-6.mb-2.px-xl-2(src="@/assets/curso/temas/tema2/img-10.jpg" style="max-width: 505px")
-          img.col-xl-6.mb-2.px-xl-2(src="@/assets/curso/temas/tema2/img-11.jpg" style="max-width: 505px")
+          img.col-xl-6.mb-2.px-xl-2(src="@/assets/curso/temas/tema2/img-10.jpg" style="max-width: 505px" alt="Se muestra 3 sujetos en la cámara de Gesell")
+          img.col-xl-6.mb-2.px-xl-2(src="@/assets/curso/temas/tema2/img-11.jpg" style="max-width: 505px" alt="Se muestra 3 sujetos en la cámara de Gesell")
           span.text-small Universidad Manuela Beltrán (s. f.).
 
     Separador
@@ -227,7 +227,7 @@
           h5.text-small Figura 11
           p.mb-0.text-small Modelo de aprendizaje según Sweller
         .col-12.mx-auto
-          img.mb-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 1030px" data-aos="fade-left")
+          img.mb-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 1030px" data-aos="fade-left" alt="Muestra Diagrama etapas de simulación, inicia con una sesión informativa, introducción al ambiente, pasa a una reunión sobre el simulador, pasa a teoría, después reunión sobre el caso, más adelante escenario, posteriormente a debriefing y finalización para hacer una aplicación. Entre el inicio y la reunión sobre el caso, sucede el prebriefing.")
           span.text-small Elaborado con base en Andrade-Lotero (2012).
 
     .container-decorador-end

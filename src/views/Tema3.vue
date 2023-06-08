@@ -24,7 +24,7 @@
           h5.text-small Figura 12
           p.mb-0.text-small Diagrama etapas de simulación 
         .col-lg-8.mx-auto
-          img.mb-2(src="@/assets/curso/temas/tema3/img-1.svg" style="max-width: 818px" data-aos="fade-left")
+          img.mb-2(src="@/assets/curso/temas/tema3/img-1.svg" style="max-width: 818px" data-aos="fade-left" alt="Muestra Diagrama etapas de simulación, inicia con una sesión informativa, introducción al ambiente, pasa a una reunión sobre el simulador, pasa a teoría, después reunión sobre el caso, más adelante escenario, posteriormente a debriefing y finalización para hacer una aplicación. Entre el inicio y la reunión sobre el caso, sucede el prebriefing.")
           span.text-small Dieckmann (s. f.).
     p.mb-5(data-aos="fade-right") El alcanzar y desarrollar las capacidades propias en las etapas del aprendizaje y lograr vincularlas a experiencias motrices debe permitir la exploración de las posibilidades de realizar o ejecutar una actividad donde se exprese no solo de manera verbal, sino que sus habilidades de comunicación sean diversas y se integren, siendo el caso del conocimiento corporal mediante el movimiento; además, favorecer la forma de ser consciente, de cómo es su sentir y cuáles son las formas de mostrar, por medio de su propio cuerpo, esta habilidad de comunicación, generando destrezas y dando respuesta a sus necesidades haciendo uso de cada parte del cuerpo humano. 
 
@@ -44,7 +44,7 @@
           h5.text-small Figura 13
           p.mb-0.text-small Teoría del aprendizaje motor 
         .col-lg-10.mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 611px" data-aos="fade-left")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 611px" data-aos="fade-left" alt="Muestra la Teoría del aprendizaje motor de  Fitts y Posner, consta de 3 etapas: cognitiva, consciente asociativa y autónoma.")
           span.text-small SENA (2022).
 
     .row.mb-5
