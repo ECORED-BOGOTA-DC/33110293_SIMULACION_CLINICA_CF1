@@ -162,7 +162,7 @@
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") No hay una manera de comparar las prácticas realizadas y mencionadas anteriormente frente a lo que es hoy en día la simulación clínica, pero, sin duda, hacen parte de su evolución como un valioso antecedente que permite el análisis, promoción y solución frente a las necesidades que se presentan como riesgo al paciente. En la actualidad, se siguen generando estrategias de seguridad a los usuarios, y es un objetivo vigente, el cual debe ser garantizado por toda institución de salud.
-      img.col-xl-5.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-9.png" style="max-width: 592px")
+      img.col-xl-5.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-9.png" style="max-width: 592px")
 
     p.mb-5(data-aos="fade-right") Algunos usos de la simulación clínica que han venido evolucionando a través del tiempo, permitiendo la mejora y optimización de su función, se presentan en áreas especializadas como:
 

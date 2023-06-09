@@ -219,7 +219,7 @@
           br
           br
           |En resumen, si la carga cognitiva total excede la capacidad de la memoria de trabajo, el aprendiz tendrá dificultades para aprender; en cambio, si logra que la carga cognitiva sea mínima, que haya espacio para la carga relativa, y además, que el aprendiz esté interesado en adquirir nueva información, este podrá hacerlo cuando se logre establecer una relación con sus esquemas y modelos mentales anteriores por medio de la memoria de largo plazo.
-      img.col-xl-6.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-12.svg" style="max-width: 592px")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema2/img-12.svg" style="max-width: 592px")
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
