@@ -162,7 +162,7 @@
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") No hay una manera de comparar las prácticas realizadas y mencionadas anteriormente frente a lo que es hoy en día la simulación clínica, pero, sin duda, hacen parte de su evolución como un valioso antecedente que permite el análisis, promoción y solución frente a las necesidades que se presentan como riesgo al paciente. En la actualidad, se siguen generando estrategias de seguridad a los usuarios, y es un objetivo vigente, el cual debe ser garantizado por toda institución de salud.
-      img.col-xl-5.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-9.png" style="max-width: 592px")
+      img.col-xl-5.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-9.png")
 
     p.mb-5(data-aos="fade-right") Algunos usos de la simulación clínica que han venido evolucionando a través del tiempo, permitiendo la mejora y optimización de su función, se presentan en áreas especializadas como:
 
@@ -280,8 +280,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Uso de simuladores de Cloudlabs
-              p.text-white.text-small En el siguiente video, se puede ver un tutorial para el uso de simuladores de Cloudlabs, dispuestos por el SENA en Sofia Plus para las diferentes áreas de conocimiento:
+              h3.mb-1(style="color: #262626") Uso de simuladores de Cloudlabs
+              p.text-small(style="color: #262626") En el siguiente video, se puede ver un tutorial para el uso de simuladores de Cloudlabs, dispuestos por el SENA en Sofia Plus para las diferentes áreas de conocimiento:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=qi7GQFDJBAQ" target="_blank")
                 span Ver
@@ -294,8 +294,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Biblioteca de simuladores
-              p.text-white.text-small En el siguiente video, se puede conocer el uso de la Biblioteca de Simuladores del SENA de las 15 áreas de conocimiento:
+              h3.mb-1(style="color: #262626") Biblioteca de simuladores
+              p.text-small(style="color: #262626") En el siguiente video, se puede conocer el uso de la Biblioteca de Simuladores del SENA de las 15 áreas de conocimiento:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=j9z0XrlfxvY" target="_blank")
                 span Ver
@@ -378,8 +378,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Diccionario de simulación en salud
-              p.text-white.text-small En el siguiente documento de la entidad The Society for Simulation in Healthcare (SSH), podrá consultar los términos más usados en simulación en salud, donde podrá contextualizarse de manera más clara sobre los conceptos y definiciones encontradas en la formación para esta área del conocimiento.
+              h3.mb-1(style="color: #262626") Diccionario de simulación en salud
+              p.text-small(style="color: #262626") En el siguiente documento de la entidad The Society for Simulation in Healthcare (SSH), podrá consultar los términos más usados en simulación en salud, donde podrá contextualizarse de manera más clara sobre los conceptos y definiciones encontradas en la formación para esta área del conocimiento.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Diccionario_de_Simulacion_en_Salud.pdf')" target="_blank")
                 span Descargar 

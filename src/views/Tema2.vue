@@ -159,8 +159,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Teorías para inserción curricular de simulación clínica
-              p.text-white.text-small En el siguiente documento de la Universidad del Desarrollo, puede consultar las teorías para inserción curricular de simulación clínica, donde, a manera de conclusión, se encuentra no solo cuáles son las teorías basadas en modelos de aprendizaje, sino además las etapas y niveles que las integran.
+              h3.mb-1(style="color: 262626") Teorías para inserción curricular de simulación clínica
+              p.text-small(style="color: 262626") En el siguiente documento de la Universidad del Desarrollo, puede consultar las teorías para inserción curricular de simulación clínica, donde, a manera de conclusión, se encuentra no solo cuáles son las teorías basadas en modelos de aprendizaje, sino además las etapas y niveles que las integran.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Teorias_para_Insercion_Curricular_de_Simulacion_Clinica.pdf')" target="_blank")
                 span Descargar 
@@ -219,7 +219,7 @@
           br
           br
           |En resumen, si la carga cognitiva total excede la capacidad de la memoria de trabajo, el aprendiz tendrá dificultades para aprender; en cambio, si logra que la carga cognitiva sea mínima, que haya espacio para la carga relativa, y además, que el aprendiz esté interesado en adquirir nueva información, este podrá hacerlo cuando se logre establecer una relación con sus esquemas y modelos mentales anteriores por medio de la memoria de largo plazo.
-      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema2/img-12.svg" style="max-width: 592px")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema2/img-12.svg")
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
