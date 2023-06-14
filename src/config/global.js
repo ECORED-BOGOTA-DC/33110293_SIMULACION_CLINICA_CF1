@@ -327,28 +327,28 @@ export default {
           nombre: 'Efraín Gómez Matamoros',
           cargo: 'Experto Temático',
           centro:
-            'Regional Distrito Capital - Centro de Formación de Talento Humano en Salud',
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
           nombre: 'Claudia Milena Hernández Naranjo',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial.',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodología para la formación virtual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Darío González',
           cargo: 'Corrector de Estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
@@ -358,27 +358,30 @@ export default {
         {
           nombre: 'Adriana Marcela Suarez Eljure',
           cargo: 'Diseño web',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollo Fullstack',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y producción audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y producción audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y producción audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -388,12 +391,12 @@ export default {
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de recursos y vinculación en plataforma LMS',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
