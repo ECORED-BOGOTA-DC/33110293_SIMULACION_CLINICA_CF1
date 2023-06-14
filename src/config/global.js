@@ -316,7 +316,8 @@ export default {
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable línea de producción Distrito Capital',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -337,7 +338,8 @@ export default {
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodología para la formación virtual',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -348,7 +350,8 @@ export default {
         {
           nombre: 'Darío González',
           cargo: 'Corrector de Estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -357,13 +360,15 @@ export default {
       autores: [
         {
           nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Diseño web',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          cargo: 'Diseño web-2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollo Fullstack',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
@@ -391,12 +396,14 @@ export default {
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de recursos y vinculación en plataforma LMS',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
