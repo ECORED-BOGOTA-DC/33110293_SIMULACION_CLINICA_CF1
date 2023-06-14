@@ -18,7 +18,7 @@
 
     p.mb-5(data-aos="fade-right") Las etapas, según Peter Dieckmann, están conformadas por tres momentos: <em>prebriefing</em>, momento en el escenario y <em>debriefing</em>. Para entender mejor esta definición, a continuación encontrará la siguiente imagen:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden; position: relative; z-index: 2;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 12
@@ -38,7 +38,7 @@
 
     p.mb-5(data-aos="fade-right") Partiendo de lo anterior, la siguiente figura extrae las etapas del aprendizaje motor según Fitts y Posner:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden; position: relative; z-index: 2;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 13

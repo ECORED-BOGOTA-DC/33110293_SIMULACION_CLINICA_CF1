@@ -73,7 +73,7 @@
         |Sabiendo lo anterior, observe de manera estructurada un detalle al respecto de las teorías del aprendizaje:
       img.col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0(src="@/assets/curso/temas/tema2/img-6.svg" style="max-width: 505px" data-aos="fade-left")
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 7
@@ -143,7 +143,7 @@
     
     p.mb-5(data-aos="fade-right") Ahora, observe, en el siguiente esquema, una especificación al respecto de las teorías, teniendo en cuenta la información vista y sus derivados:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 8
@@ -152,7 +152,7 @@
           img.mb-2(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 1031px" data-aos="fade-left" alt="Cuadro sinóptico de teorías")
           span.text-small SENA (2022).
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema2/img-pdf.svg" data-aos="fade-right")
@@ -172,7 +172,7 @@
     
     p.mb-5(data-aos="fade-right") Para Albert Bandura el aprendizaje es un proceso cognitivo en el que intervienen factores asociados al contexto social y personal del individuo. Este se logra por medio de la observación y la modelización de las experiencias que una persona vive a diario en su entorno, reflexionando y evaluando la compensación de reproducir o no la conducta aprendida. A diferencia de las teorías conductuales anteriores, el individuo logra la consolidación de un aprendizaje independientemente del esfuerzo deliberado; por el contrario, puede generarse de manera independiente por medio de la observación, a esta capacidad se le denomina aprendizaje vicario. De hecho, en el proceso de aprendizaje, son cinco las capacidades básicas de cualquier individuo al aprender:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 9
@@ -187,16 +187,16 @@
       |Los aportes de la teoría de Bandura a la simulación clínica son:
 
     ul.mb-5
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") La priorización de la observación.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") La modelización en escenarios controlados y en vivo.
     
     p.mb-5(data-aos="fade-right") Como sucede con la técnica de la cámara de Gesell y la posterior retroalimentación y autoevaluación del aprendiz frente a las acciones aprendidas, las cuales estimulan la adquisición de competencias, habilidades y destrezas. 
 
-    .tarjeta.p-4(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 10
@@ -221,7 +221,7 @@
           |En resumen, si la carga cognitiva total excede la capacidad de la memoria de trabajo, el aprendiz tendrá dificultades para aprender; en cambio, si logra que la carga cognitiva sea mínima, que haya espacio para la carga relativa, y además, que el aprendiz esté interesado en adquirir nueva información, este podrá hacerlo cuando se logre establecer una relación con sus esquemas y modelos mentales anteriores por medio de la memoria de largo plazo.
       img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema2/img-12.svg")
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden; position: relative; z-index: 2;")
+    .tarjeta.p-4.mb-0(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 11
@@ -230,7 +230,7 @@
           img.mb-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 1030px" data-aos="fade-left" alt="Muestra Diagrama etapas de simulación, inicia con una sesión informativa, introducción al ambiente, pasa a una reunión sobre el simulador, pasa a teoría, después reunión sobre el caso, más adelante escenario, posteriormente a debriefing y finalización para hacer una aplicación. Entre el inicio y la reunión sobre el caso, sucede el prebriefing.")
           span.text-small Elaborado con base en Andrade-Lotero (2012).
 
-    .container-decorador-end
+    .container-decorador-end.pt-5
       img.img-bg(src="@/assets/curso/temas/tema2/img-15.svg")
       p.col-lg-6.col-xl-7.order-2.order-lg-1(data-aos="fade-right") Las estrategias que se han implementado de esta teoría a la simulación clínica fomentan la división de las tareas complejas en partes sencillas y específicas, que se irán aumentando progresivamente, con el fin de no saturar la carga cognitiva total.
         br
@@ -261,13 +261,14 @@ export default {
   position: relative
   display: flex
   flex-wrap: wrap
+  overflow: hidden
   img, p
     position: relative
   .img-bg
     position: absolute
     max-width: 558px
     right: 0
-    bottom: -3rem
+    bottom: -3.2rem
     z-index: 0
   @media (max-width: 768px)
     overflow: hidden

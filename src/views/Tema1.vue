@@ -9,7 +9,7 @@
     
     p.mb-5(data-aos="fade-right") Los momentos históricos atribuidos a la simulación aplicada a las ciencias de la salud han venido evolucionando con cambios y adelantos representativos y favorables para este importante sector. Existe un importante antecedente en el área general situado en la década de los veinte del siglo pasado, por el ingeniero Edwin Albert Link, quien, para el año de 1929, desarrolló simuladores de vuelo con el fin de darle entrenamiento a los pilotos en la comercialización del llamado Blue Box o Link Trainer. 
     
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 1
@@ -26,7 +26,7 @@
     
     p.mb-5(data-aos="fade-right") La simulación es una técnica que, en su evolución y desde su nacimiento, permite de manera amplia y real llegar a experimentar de una u otra manera aspectos claves de eventos y escenarios reales de una manera interactiva. En las ciencias de la salud, la historia se remonta a los primeros simuladores, los cuales no eran tan tecnológicos como ahora, sino, más bien, se conformaban por modelos de seres humanos elaborados en barro y piedra, los cuales se caracterizaban por tener rasgos clínicos de patologías y sus signos en el hombre. Las diferentes culturas presentaban distintos simuladores, a los cuales tenía acceso cada médico con el fin de diagnosticar, en muchos casos, a mujeres, pues muchas sociedades, y a razón de la moral, tenían prohibiciones a la exposición de ciertas partes del cuerpo humano. 
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 2
@@ -37,7 +37,7 @@
         
     p.mb-5(data-aos="fade-right") A continuación, se presentan los principales hechos para la simulación clínica en el mundo:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       h4 Línea de tiempo
       LineaTiempoD.color-secundario.col-xl-9.mx-auto
         .d-flex.flex-wrap(numero="1" titulo="Edad media")
@@ -112,23 +112,23 @@
     p.mb-5(data-aos="fade-right") Hay un avance en el gran crecimiento encontrado en el desarrollo de los simuladores clínicos, evidenciado en las ramas de especialidades médicas que realizan actividades simuladas con métodos para examen propios, como:
 
     ul.mb-5
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Técnicas de venopunción.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Cateterismo vesical.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Oftalmoscopia.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Tacto rectal, entre otros procedimientos.
 
     
     p.mb-5(data-aos="fade-right") La siguiente figura expone un ejemplo de un ejercicio de venopunción:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 3
@@ -145,7 +145,7 @@
 
     p.mb-5(data-aos="fade-right") En la historia de la simulación clínica, la enfermería desarrolló uno de los primeros espacios simulados, el cual fue llamado "salas de arte", en estas se propició mejorar los procesos de aprendizaje de los estudiantes de enfermería. Estos lugares servían como sitios de entrenamiento y apropiación de conocimientos, en los que, además, se integraban algunos equipos médicos, con el fin de, una vez desarrolladas las habilidades y las destrezas de los aprendices, aplicarlas en la atención segura de pacientes. 
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 4
@@ -201,11 +201,11 @@
     p.mb-5(data-aos="fade-right") En la actualidad, la simulación clínica viene en un proceso de evolución de constante perfeccionamiento y excelentes resultados, y, por medio de los programas encontrados en la formación del talento humano en salud y la aplicación de conocimientos en las ciencias de la salud, la transformación digital, las tecnologías en salud aplicadas en combinación con herramientas informáticas, busca un continuo relacionamiento, teniendo como objetivo la gestión del riesgo y la seguridad del paciente. Todo esto con el propósito de obtener como resultados la sensibilización, beneficios y alcances en los grandes y llamados actualmente “desafíos en conectividad”. 
 
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 5
-          p.mb-0.text-small Simulador de enfermería
+          p.mb-0.text-small Simuladores actuales
         .mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 1030px" data-aos="fade-left" alt="Muestra diferentes figuras de simuladores actuales.")
           span.text-small Comunidad FacMed (2020).
@@ -229,38 +229,38 @@
 
 
     ul.mb-5.ps-md-5
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador clínico médico
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de conducción
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de carreras
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de vuelos o de aviones
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de trenes
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de vida o de dinámica familiar
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de espacios o ambientes
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de negocios
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador político
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de redes
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Simulador de juegos
 
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
@@ -273,7 +273,7 @@
       br
       |Los siguientes son videos que ejemplifican y ayudan a complementar los conocimientos:
     
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-13.svg" data-aos="fade-right")
@@ -287,7 +287,7 @@
                 span Ver
                 img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
     
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-13.svg" data-aos="fade-right")
@@ -320,7 +320,7 @@
       br
       |Partiendo de lo anterior, el siguiente esquema menciona el ciclo de la simulación clínica:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 6
@@ -331,7 +331,7 @@
 
     p.mb-5(data-aos="fade-right") Ahora, observe en la siguiente tabla los beneficios y limitaciones que pueden presentar los procesos de simulación clínica:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Tabla 1
@@ -371,7 +371,7 @@
                 td.col-7 Tiempos extensos para el aprendizaje.
           p.text-small SENA (2022).
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-15.svg" data-aos="fade-right")
