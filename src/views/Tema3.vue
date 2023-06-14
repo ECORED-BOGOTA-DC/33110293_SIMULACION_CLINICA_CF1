@@ -14,7 +14,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ECCd2VE-MFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") Las etapas, según Peter Dieckmann, están conformadas por tres momentos: <em>prebriefing</em>, momento en el escenario y <em>debriefing</em>. Para entender mejor esta definición, a continuación encontrará la siguiente imagen:
 
