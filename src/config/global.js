@@ -309,13 +309,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal',
-          cargo: 'Líder del equipo',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable línea de producción Distrito Capital',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
@@ -336,7 +336,7 @@ export default {
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesor Metodológico',
+          cargo: 'Metodología para la formación virtual',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
         },
         {
@@ -357,27 +357,27 @@ export default {
       autores: [
         {
           nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Diseñador web',
+          cargo: 'Diseño web',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Jhon Edinson Castañeda Oviedo',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollo Fullstack',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
@@ -387,12 +387,12 @@ export default {
       autores: [
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación de recursos y vinculación en plataforma LMS',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],

@@ -218,7 +218,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Hw2CUqaGXV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     h4 Tipos de simuladores
 
@@ -310,7 +310,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1iesHTiol3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") Es importante aclarar que con la simulación clínica no se pretende el reemplazo de la práctica en la vida real con el paciente, antes, procura aplicar diferentes metodologías de manera organizada y con objetivos específicos para fortalecer las habilidades y prácticas de tipo motriz, y cualificar competencias que se encuentran en cada escenario médico. 
       br
