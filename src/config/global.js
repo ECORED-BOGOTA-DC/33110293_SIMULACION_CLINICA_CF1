@@ -294,8 +294,7 @@ export default {
     {
       referencia:
         'Vigotsky, L. (1978). <em>El desarrollo de los procesos psicológicos superiores.</em> Editorial Crítica.',
-      link:
-        'https://www.bibliopsi.org/docs/carreras/obligatorias/CFP/educacional/erausquin/Unidad%202/Vigotsky%20-%20el%20desarrollo%20de%20los%20p.%20cap%204.pdf',
+      link: 'http://www.terras.edu.ar/biblioteca/6/TA_Vygotzky_Unidad_1.pdf',
     },
     {
       referencia:

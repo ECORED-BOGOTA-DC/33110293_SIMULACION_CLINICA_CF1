@@ -80,7 +80,7 @@
           p.mb-0.text-small Mapa mental teorías del aprendizaje
         .col-lg-8.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema2/img-7.svg" style="max-width: 878px" data-aos="fade-left" alt="Mapa mental teorías del aprendizaje")
-          span.text-small Pagu y Torres (2014).
+          span.text-small Nota. Pagu y Torres (2014).
     p.mb-5(data-aos="fade-right") A continuación, se hará una explicación de las teorías del aprendizaje más usadas y que vienen siendo tomadas en cuenta en las prácticas pedagógicas con técnicas y estrategias para facilitar el aprendizaje:
     
     .p-4.p-md-5.mb-5(style="background-color: #E7F9FF")
@@ -107,7 +107,7 @@
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema2/se-4.png')
         .row
           .col-md-6.mb-4.mb-md-0.order-2.order-md-1
-            h3 Las cuatros fases
+            h3 Las cuatro fases
             p La fase de experiencia concreta, en la cual el individuo experimenta una situación particular; la fase de observación reflexiva, en la que evalúa las acciones realizadas en la experiencia y valora los resultados; la fase de conceptualización abstracta, en la cual el individuo establece conclusiones y generalizaciones a partir de sus reflexiones; y  la fase de experimentación activa, que posibilita probar en la práctica las conclusiones elaboradas, para dirigir las acciones en experiencias futuras.
           img.col-md-6.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema2/se-5.svg')
         .row
@@ -150,7 +150,7 @@
           p.mb-0.text-small Cuadro sinóptico de teorías
         .col-12.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 1031px" data-aos="fade-left" alt="Cuadro sinóptico de teorías")
-          span.text-small SENA (2022).
+          span.text-small Nota. SENA (2022).
 
     .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center
@@ -179,7 +179,7 @@
           p.mb-0.text-small Capacidades básicas del aprendizaje
         .col-12.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 1031px" data-aos="fade-left" alt="mapa mental capacidades básicas del aprendizaje")
-          span.text-small SENA (2022).   
+          span.text-small Nota. SENA (2022).   
 
     p.mb-5(data-aos="fade-right") De esta manera, en el proceso de aprendizaje, un individuo puede prever, ensayar simbólicamente y aprender vicariamente antes de ejecutar las acciones aprendidas. Simultáneamente, autoevalúa las consecuencias de las acciones para así autorregular sus acciones. En este sentido, el individuo logra construir mayor confianza y autoeficacia en el desarrollo de diversas tareas, lo que influirá positivamente en el interés y la motivación del aprendiz a la hora de afrontar nuevos desafíos.
       br
@@ -204,7 +204,7 @@
         .col-12.mx-auto.d-flex.flex-wrap(data-aos="fade-right")
           img.col-xl-6.mb-2.px-xl-2(src="@/assets/curso/temas/tema2/img-10.jpg" style="max-width: 505px" alt="Se muestra 3 sujetos en la cámara de Gesell")
           img.col-xl-6.mb-2.px-xl-2(src="@/assets/curso/temas/tema2/img-11.jpg" style="max-width: 505px" alt="Se muestra 3 sujetos en la cámara de Gesell")
-          span.text-small Universidad Manuela Beltrán (s. f.).
+          span.text-small Nota. Universidad Manuela Beltrán (s. f.).
 
     Separador
 
@@ -228,7 +228,7 @@
           p.mb-0.text-small Modelo de aprendizaje según Sweller
         .col-12.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 1030px" data-aos="fade-left" alt="Muestra Diagrama etapas de simulación, inicia con una sesión informativa, introducción al ambiente, pasa a una reunión sobre el simulador, pasa a teoría, después reunión sobre el caso, más adelante escenario, posteriormente a debriefing y finalización para hacer una aplicación. Entre el inicio y la reunión sobre el caso, sucede el prebriefing.")
-          span.text-small Elaborado con base en Andrade-Lotero (2012).
+          span.text-small Nota. Elaborado con base en Andrade-Lotero (2012).
 
     .container-decorador-end.pt-5
       img.img-bg(src="@/assets/curso/temas/tema2/img-15.svg")

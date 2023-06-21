@@ -16,7 +16,7 @@
           p.mb-0.text-small Simulador Link Trainer
         .col-lg-10.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-1.jpg" style="max-width: 878px" data-aos="fade-left" alt="Muestra el Simulador Link Trainer")
-          span.text-small Fuente Nasflmuseum (2010).
+          span.text-small Nota. Fuente Nasflmuseum (2010).
     
     p.mb-5(data-aos="fade-right") En la siguiente línea de tiempo, es posible apreciar la evolución de la simulación antes de iniciar con los primeros modelos aplicados en la ciencia clínica:
     
@@ -33,7 +33,7 @@
           p.mb-0.text-small Antiguos modelos de arcilla
         .col-lg-6.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-5.jpg" style="max-width: 602px" data-aos="fade-left" alt="Muestra los Antiguos modelos de arcilla.")
-          span.text-small Smith y Peng (2021).
+          span.text-small Nota. Smith y Peng (2021).
         
     p.mb-5(data-aos="fade-right") A continuación, se presentan los principales hechos para la simulación clínica en el mundo:
 
@@ -61,27 +61,26 @@
 
         .d-flex.flex-wrap(numero="5" titulo="Década de los 70")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-5.jpg" style="max-width: 295px" alt="imagen ilustrativa para Década de los 70")
-          p.col-12.col-lg.ps-md-3 “Abrahamson y Denson desarrollan el simulador SimOne, con la Universidad de Harvard, este simulador contaba con características que lo harían único, al presentar ruidos respiratorios y cardíacos, pulso carotídeo, temporal, que daban respuesta fisiológica a las maniobras aplicadas en tiempo real, usando programas desde un sistema de computo” (Zeigen, 2021).
+          p.col-12.col-lg.ps-md-3 “Abrahamson y Denson desarrollan el simulador SimOne, con la Universidad de Harvard, este simulador contaba con características que lo harían único, al presentar ruidos respiratorios y cardíacos, pulso carotídeo, temporal, que daban respuesta fisiológica a las maniobras aplicadas en tiempo real, usando programas desde un sistema de cómputo” (Zeigen, 2021).
 
         .d-flex.flex-wrap(numero="6" titulo="Desde los años 70")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-6.jpg" style="max-width: 295px" alt="imagen ilustrativa para los años 70")
-          p.col-12.col-lg.ps-md-3 Para la especialidad en oftalmología, se ha encontrado el uso de ojos esquemáticos para el aprendizaje con la exploración del ojo, está aplicada no solo en oftalmoscopia directa sino también, en la indirecta.
+          p.col-12.col-lg.ps-md-3 Para la especialidad en oftalmología, se ha encontrado el uso de ojos esquemáticos para el aprendizaje con la exploración del ojo, este aplicado no solo en oftalmoscopia directa sino también en la indirecta.
 
         .d-flex.flex-wrap(numero="7" titulo="Siglo XIX")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-7.jpg" style="max-width: 295px" alt="imagen ilustrativa para Siglo XIX")
           .col-12.col-lg.ps-md-3
-            p “Una de las especialidades con mayor número de simuladores, es la obstetricia, sus procedimientos, como: amniocentesis bajo ultrasonografía, los fórceps, la distocia de hombros, atención de emergencias obstétricas y trauma, son claros ejemplos en la historia; además, de la evolución marcada en la actualidad” (Cabacas, 2013).
-            a(href="http://tomascabacas.com/wp-content/uploads/2014/01/Forceps-romano.jpg " target="_blank" style="overflow-wrap: anywhere") http://tomascabacas.com/wp-content/uploads/2014/01/Forceps-romano.jpg 
+            p “Una de las especialidades con mayor número de simuladores es la obstetricia, sus procedimientos, como amniocentesis bajo ultrasonografía, los fórceps, la distocia de hombros, atención de emergencias obstétricas y trauma, son claros ejemplos en la historia; además de la evolución marcada en la actualidad” (Cabacas, 2013).
+            a(href="https://tomycg9.files.wordpress.com/2023/02/c5670-forceps-romano.jpg" target="_blank" style="overflow-wrap: anywhere") https://tomycg9.files.wordpress.com/2023/02/c5670-forceps-romano.jpg
 
         .d-flex.flex-wrap(numero="8" titulo="Mediados de los 80")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-8.jpg" style="max-width: 295px" alt="imagen ilustrativa para los 80")
-          p.col-12.col-lg.ps-md-3 Investigadores de las Universidades de Stanford y de Florida, de manera independiente, iniciaron con el trabajo de la nueva generación de maniquíes como simuladores de pacientes a los cuales denominan Stanford CASE (Comprehensive Anaesthesia Simulation Environment), siendo el primer recurso que se comercializara en ese entonces.
+          p.col-12.col-lg.ps-md-3 Investigadores de las Universidades de Stanford y de Florida, de manera independiente, iniciaron con el trabajo de la nueva generación de maniquíes como simuladores de pacientes, a los cuales denominan <em>Stanford CASE (Comprehensive Anaesthesia Simulation Environment)</em>, siendo el primer recurso que se comercializara en ese entonces.
 
         .d-flex.flex-wrap(numero="9" titulo="En los años 90")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-9.jpg" style="max-width: 295px" alt="imagen ilustrativa para los 90")
           .col-12.col-lg.ps-md-3
-            p En Europa, también por la rama de anestesiología, se investiga en el área de la simulación, con el fin de desarrollar simuladores más sofisticados que los encontrados en Estados Unidos, consiguiendo destacar el simulador de anestesia de Leiden, PAT Sim, y el simulador de anestesia SOPHUS.
-            a(href="http://tomascabacas.com/wp-content/uploads/2014/01/Forceps-romano.jpg " target="_blank" style="overflow-wrap: anywhere") http://tomascabacas.com/wp-content/uploads/2014/01/Forceps-romano.jpg 
+            p En Europa, también por la rama de anestesiología, se investiga en el área de la simulación, con el fin de desarrollar simuladores más sofisticados que los encontrados en Estados Unidos, consiguiendo destacar el simulador de anestesia de Leiden, <em>PAT Sim</em>, y el simulador de anestesia <em>SOPHUS</em>.
 
         .d-flex.flex-wrap(numero="10" titulo="Años 90")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-10.jpg" style="max-width: 295px" alt="imagen ilustrativa para el año 90")
@@ -135,7 +134,7 @@
           p.mb-0.text-small Simulador para venopunción.
         .col-lg-11.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-6.jpg" style="max-width: 925px" data-aos="fade-left" alt="Expone un ejemplo de un ejercicio de venopunción")
-          span.text-small Meri-Vela (2017).
+          span.text-small Nota. Meri-Vela (2017).
     .d-flex.flex-wrap.mb-5
       .col-lg-6.me-lg-4
         p.mb-4(data-aos="fade-right") Un hecho importante, generado por el uso de simuladores y experiencias afines, permite la aparición de “la bioética” y, desde su disciplina, ha establecido que la simulación debe ser aplicada con el fin educativo y que garantice la seguridad de cada ser humano, denominado paciente.
@@ -152,7 +151,7 @@
           p.mb-0.text-small Simulador de enfermería
         .col-lg-8.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-8.jpg" style="max-width: 820px" data-aos="fade-left" alt="Muestra simulador de enfermería, cuatro enfermeras con un maniquí.")
-          span.text-small Digital Museums Canada (s. f.). 
+          span.text-small Nota. Digital Museums Canada (s. f.). 
 
     p.mb-5(data-aos="fade-right") Las actividades encontradas en la práctica de la enfermería estaban conformadas por cambios de posición de acuerdo con la condición clínica de la persona, esto con el objetivo de apoyar casos con limitación o pérdida de extremidades, brindando el apoyo con el uso de sillas o elementos para el movimiento en cama o aquellos que se requerían para evitar lesiones secundarias por la incapacidad de movimiento, higiene, toma de constantes vitales, entre otras. 
       br
@@ -208,7 +207,7 @@
           p.mb-0.text-small Simuladores actuales
         .mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 1030px" data-aos="fade-left" alt="Muestra diferentes figuras de simuladores actuales.")
-          span.text-small Comunidad FacMed (2020).
+          span.text-small Nota. Comunidad FacMed (2020).
 
     Separador 
 
@@ -327,7 +326,7 @@
           p.mb-0.text-small Ciclo simulación clínica
         .col-md-10.col-xl-6.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema1/img-14.svg" style="max-width: 820px" data-aos="fade-left" alt="Muestra el ciclo de la simulación clínica: actividades, simulación clínica, planificar, organizar, metodología y plan de estudios.")
-          span.text-small SENA (2022).
+          span.text-small Nota. SENA (2022).
 
     p.mb-5(data-aos="fade-right") Ahora, observe en la siguiente tabla los beneficios y limitaciones que pueden presentar los procesos de simulación clínica:
 
@@ -397,13 +396,13 @@ export default {
       {
         titulo: '1929',
         texto:
-          'Link Trainer, también conocido como Blue Box y Pilot Trainer, fue un simulador de vuelo producido a principios de la década de 1930, basado en la tecnología iniciada en 1929 por Edwin Albert Link.',
+          '<em>Link Trainer</em>, también conocido como <em>Blue Box</em> y <em>Pilot Trainer</em>, fue un simulador de vuelo producido a principios de la década de 1930, basado en la tecnología iniciada en 1929 por Edwin Albert Link.',
         icono: require('@/assets/curso/temas/tema1/img-2.svg'),
       },
       {
         titulo: 'Años 70',
         texto:
-          'Siguen con el desarrollo de simuladores, los cuales daban respuesta a situaciones de crisis, trabajo en equipo y cómo liderar en el campo de la aviación',
+          'Siguen con el desarrollo de simuladores, los cuales daban respuesta a situaciones de crisis, trabajo en equipo y en el campo de la aviación.',
         icono: require('@/assets/curso/temas/tema1/img-3.svg'),
       },
       {

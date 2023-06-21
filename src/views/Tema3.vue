@@ -16,7 +16,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ECCd2VE-MFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5(data-aos="fade-right") Las etapas, según Peter Dieckmann, están conformadas por tres momentos: <em>prebriefing</em>, momento en el escenario y <em>debriefing</em>. Para entender mejor esta definición, a continuación encontrará la siguiente imagen:
+    p.mb-5(data-aos="fade-right") Las etapas, según Peter Dieckmann, están conformadas por tres momentos: <em>prebriefing</em>, momento en el escenario y <em>debriefing</em>. Para entender mejor esta definición, a continuación, encontrará la siguiente imagen:
 
     .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden; position: relative; z-index: 2;")
       .col-lg-10.mx-auto
@@ -25,7 +25,7 @@
           p.mb-0.text-small Diagrama etapas de simulación 
         .col-lg-8.mx-auto
           img.mb-2(src="@/assets/curso/temas/tema3/img-1.svg" style="max-width: 818px" data-aos="fade-left" alt="Muestra Diagrama etapas de simulación, inicia con una sesión informativa, introducción al ambiente, pasa a una reunión sobre el simulador, pasa a teoría, después reunión sobre el caso, más adelante escenario, posteriormente a debriefing y finalización para hacer una aplicación. Entre el inicio y la reunión sobre el caso, sucede el prebriefing.")
-          span.text-small Dieckmann (s. f.).
+          span.text-small Nota. Dieckmann (s. f.).
     p.mb-5(data-aos="fade-right") El alcanzar y desarrollar las capacidades propias en las etapas del aprendizaje y lograr vincularlas a experiencias motrices debe permitir la exploración de las posibilidades de realizar o ejecutar una actividad donde se exprese no solo de manera verbal, sino que sus habilidades de comunicación sean diversas y se integren, siendo el caso del conocimiento corporal mediante el movimiento; además, favorecer la forma de ser consciente, de cómo es su sentir y cuáles son las formas de mostrar, por medio de su propio cuerpo, esta habilidad de comunicación, generando destrezas y dando respuesta a sus necesidades haciendo uso de cada parte del cuerpo humano. 
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.col-lg-10.mx-auto(style="background-color: #13C4FF")
@@ -45,7 +45,7 @@
           p.mb-0.text-small Teoría del aprendizaje motor 
         .col-lg-10.mx-auto
           img.mb-2.mx-auto(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 611px" data-aos="fade-left" alt="Muestra la Teoría del aprendizaje motor de  Fitts y Posner, consta de 3 etapas: cognitiva, consciente asociativa y autónoma.")
-          span.text-small SENA (2022).
+          span.text-small Nota. SENA (2022).
 
     .row.mb-5
       AcordionA.order-2.order-lg-1.col-lg-8.pe-lg-3(tipo="b" @select="selectimg = $event")
