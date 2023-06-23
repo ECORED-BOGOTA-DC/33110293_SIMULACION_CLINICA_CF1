@@ -65,12 +65,12 @@
 
         .d-flex.flex-wrap(numero="6" titulo="Desde los años 70")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-6.jpg" style="max-width: 295px" alt="imagen ilustrativa para los años 70")
-          p.col-12.col-lg.ps-md-3 Para la especialidad en oftalmología, se ha encontrado el uso de ojos esquemáticos para el aprendizaje con la exploración del ojo, este aplicado no solo en oftalmoscopia directa sino también en la indirecta.
+          p.col-12.col-lg.ps-md-3 Para la especialidad en oftalmología, se ha encontrado el uso de ojos esquemáticos para el aprendizaje con la exploración del ojo, está aplicada no solo en oftalmoscopia directa sino también en la indirecta.
 
         .d-flex.flex-wrap(numero="7" titulo="Siglo XIX")
           img.mx-auto.mx-lg-0.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/ltd-7.jpg" style="max-width: 295px" alt="imagen ilustrativa para Siglo XIX")
           .col-12.col-lg.ps-md-3
-            p “Una de las especialidades con mayor número de simuladores es la obstetricia, sus procedimientos, como amniocentesis bajo ultrasonografía, los fórceps, la distocia de hombros, atención de emergencias obstétricas y trauma, son claros ejemplos en la historia; además de la evolución marcada en la actualidad” (Cabacas, 2013).
+            p “Una de las especialidades con mayor número de simuladores, es la obstetricia, sus procedimientos, como amniocentesis bajo ultrasonografía, los fórceps, la distocia de hombros, atención de emergencias obstétricas y trauma, son claros ejemplos en la historia; además de la evolución marcada en la actualidad” (Cabacas, 2013).
             a(href="https://tomycg9.files.wordpress.com/2023/02/c5670-forceps-romano.jpg" target="_blank" style="overflow-wrap: anywhere") https://tomycg9.files.wordpress.com/2023/02/c5670-forceps-romano.jpg
 
         .d-flex.flex-wrap(numero="8" titulo="Mediados de los 80")
@@ -309,7 +309,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/1iesHTiol3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4kQVP_t62Ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") Es importante aclarar que con la simulación clínica no se pretende el reemplazo de la práctica en la vida real con el paciente, antes, procura aplicar diferentes metodologías de manera organizada y con objetivos específicos para fortalecer las habilidades y prácticas de tipo motriz, y cualificar competencias que se encuentran en cada escenario médico. 
       br
@@ -402,7 +402,7 @@ export default {
       {
         titulo: 'Años 70',
         texto:
-          'Siguen con el desarrollo de simuladores, los cuales daban respuesta a situaciones de crisis, trabajo en equipo y en el campo de la aviación.',
+          'Siguen con el desarrollo de simuladores, los cuales daban respuesta a situaciones de crisis, trabajo en equipo y cómo liderar en el campo de la aviación.',
         icono: require('@/assets/curso/temas/tema1/img-3.svg'),
       },
       {
