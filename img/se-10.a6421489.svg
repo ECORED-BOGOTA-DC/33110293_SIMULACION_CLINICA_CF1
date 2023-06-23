@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="384.697" viewBox="0 0 652 384.697">
+  <g id="Grupo_137353" data-name="Grupo 137353" transform="translate(-683.333 -10408)">
+    <g id="Grupo_136755" data-name="Grupo 136755" transform="translate(1025.3 10387.022)">
+      <rect id="Rectángulo_31191" data-name="Rectángulo 31191" width="226.674" height="226.675" transform="translate(83.359 21)" fill="#f2eefc"/>
+      <rect id="Rectángulo_31193" data-name="Rectángulo 31193" width="226.674" height="226.675" transform="translate(-341.967 179)" fill="#4747ff" opacity="0.3"/>
+    </g>
+    <rect id="Rectángulo_41759" data-name="Rectángulo 41759" width="610" height="340" transform="translate(725 10408)" fill="#fff"/>
+    <text id="Motivación" transform="translate(1028 10606)" fill="#231f20" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-29.531" y="0">Motivación</tspan></text>
+    <text id="Objetivos" transform="translate(1028 10494)" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-24.896" y="0">Objetivos</tspan></text>
+    <text id="Repetición" transform="translate(1126 10661)" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-28.163" y="0">Repetición</tspan></text>
+    <text id="Realimentación" transform="translate(931 10661.011)" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-41.35" y="0">Realimentación</tspan></text>
+    <path id="Trazado_200179" data-name="Trazado 200179" d="M328.894,204.812V223.3H310.405" transform="translate(815.835 10339.139)" fill="none" stroke="#63f2e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Trazado_200180" data-name="Trazado 200180" d="M298.4,190.29A184.183,184.183,0,0,1,336.5,233.617" transform="translate(807.303 10328.822)" fill="none" stroke="#63f2e4" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Trazado_200181" data-name="Trazado 200181" d="M196.58,193.686h18.489v18.489" transform="translate(734.97 10331.234)" fill="none" stroke="#63f2e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Trazado_200182" data-name="Trazado 200182" d="M182.059,232.334a184.189,184.189,0,0,1,43.325-38.11" transform="translate(724.654 10331.617)" fill="none" stroke="#63f2e4" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Trazado_200183" data-name="Trazado 200183" d="M248.121,325.591,234.19,313.435,246.345,299.5" transform="translate(761.689 10406.411)" fill="none" stroke="#63f2e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Trazado_200184" data-name="Trazado 200184" d="M292.245,307.109a184.15,184.15,0,0,1-57.7.229" transform="translate(761.941 10411.813)" fill="none" stroke="#63f2e4" stroke-miterlimit="10" stroke-width="4"/>
+    <g id="Elipse_4994" data-name="Elipse 4994" transform="translate(959 10420)" fill="none" stroke="#d3f988" stroke-width="8">
+      <circle cx="68.5" cy="68.5" r="68.5" stroke="none"/>
+      <circle cx="68.5" cy="68.5" r="64.5" fill="none"/>
+    </g>
+    <g id="Elipse_4995" data-name="Elipse 4995" transform="translate(959 10532)" fill="none" stroke="#d100c9" stroke-width="8">
+      <circle cx="68.5" cy="68.5" r="68.5" stroke="none"/>
+      <circle cx="68.5" cy="68.5" r="64.5" fill="none"/>
+    </g>
+    <g id="Elipse_4996" data-name="Elipse 4996" transform="translate(1057 10587)" fill="none" stroke="#aceaff" stroke-width="8">
+      <circle cx="68.5" cy="68.5" r="68.5" stroke="none"/>
+      <circle cx="68.5" cy="68.5" r="64.5" fill="none"/>
+    </g>
+    <g id="Elipse_4997" data-name="Elipse 4997" transform="translate(862 10587)" fill="none" stroke="#bebeff" stroke-width="8">
+      <circle cx="68.5" cy="68.5" r="68.5" stroke="none"/>
+      <circle cx="68.5" cy="68.5" r="64.5" fill="none"/>
+    </g>
+  </g>
+</svg>
